@@ -1,0 +1,3 @@
+Tool: clang-tidy
+Command used: & "C:\Program Files\LLVM\bin\clang-tidy.exe" main.cpp -- -std=c++17
+Findings: Checked main.cpp for code quality, readability, and bug-prone patterns.
